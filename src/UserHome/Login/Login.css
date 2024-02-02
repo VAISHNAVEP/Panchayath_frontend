@@ -1,0 +1,25 @@
+.btn{
+    margin-top: 10px;
+    width: 350px;
+    margin-left: 50px;
+
+}
+.link{
+    margin-left: 200px;
+    padding-bottom: 500px;
+    margin-bottom: 600px                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ;
+    
+}
+.email{
+    margin-left: 50px;
+}
+.password{
+    margin-left: 50px;
+}
+p{
+    margin-left: 50px;
+}
+#frm{
+    box-shadow: 3px 3px 3x black;
+    border-radius: 20px;
+}

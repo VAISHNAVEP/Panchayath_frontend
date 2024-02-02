@@ -1,0 +1,24 @@
+div {
+  margin-right: 100px;
+}
+.complaint {
+  text-decoration: none;
+  margin-top: 6px;
+  color: gray;
+}
+#header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.navbar-nav {
+  margin-left: auto;
+}
+
+/* Adjust the margin-right for the Projects dropdown */
+.navbar-nav .nav-item.dropdown {
+  margin-right: 20px; /* Adjust the value as needed */
+}
+.home{
+    color: gray;
+}
